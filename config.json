@@ -1,0 +1,6 @@
+{
+    "token": "your token",
+    "everyoneMention": true,
+    "hostedBy": true,
+    "guildId": "server id"
+}
